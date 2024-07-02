@@ -2,7 +2,7 @@
 <a href="https://dharshan1912.io"><img src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif" alt="MasterHead" style="width: 1000px;height:400px"></a>
 </div>
 <h1 align="center">Hello , I'm Dharshan D</h1>
-<h3 align="center">A Passionate Web Developer From India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharshan1912&label=Profile%20views&color=0e75b6&style=flat" alt="dharshan1912" /> </p>
 
 - 🌱 I’m currently learning **programming in Java**
